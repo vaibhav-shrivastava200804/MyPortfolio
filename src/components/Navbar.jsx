@@ -40,7 +40,7 @@ export default function Navbar() {
           href="#home"
           className="text-xl font-bold tracking-wide text-accent"
         >
-          Vaibhav<span className="text-white">.</span>
+          Vaibhav Shrivastava<span className="text-white">.</span>
         </a>
 
         {/* Desktop Menu */}
