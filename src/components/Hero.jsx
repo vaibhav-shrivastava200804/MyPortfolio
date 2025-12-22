@@ -26,7 +26,7 @@ export default function Hero() {
 
         <div className="mt-8 flex gap-6 justify-center">
           <a
-            href="../../public/resume.pdf"
+            href="/resume.pdf"
             className="px-6 py-3 bg-accent text-black rounded-lg shadow-glow hover:scale-105 transition"
           >
             Download Resume
