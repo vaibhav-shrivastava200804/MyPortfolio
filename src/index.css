@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* ===== CUSTOM THEME TOKENS ===== */
+@theme {
+  --color-primary: #020617;    /* Deep navy */
+  --color-secondary: #0f172a;  /* Slightly lighter navy */
+  --color-accent: #38bdf8;     /* Neon blue */
+  --color-glow: #22d3ee;
+
+  --font-sans: Inter, Poppins, system-ui, sans-serif;
+}
+
+/* Optional global styling */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-primary text-white font-sans;
+}
