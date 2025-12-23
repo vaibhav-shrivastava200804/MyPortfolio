@@ -8,7 +8,7 @@ export const projects = [
       "Paginated dashboard",
       "Real-time API data",
     ],
-    link: "https://vbookz.vercel.app",
+    link: "https://book-store-eight-bice.vercel.app/",
   },
   {
     title: "VTest",

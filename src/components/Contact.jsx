@@ -7,10 +7,10 @@ export default function Contact() {
         <p className="text-gray-300 mb-6 leading-relaxed">
           📧 Email:{" "}
           <a
-            href="mailto:vaibhavshrivastava.dev@gmail.com"
+            href="mailto:vaibhav2000804@gmail.com"
             className="text-accent hover:underline"
           >
-            vaibhavshrivastava.dev@gmail.com
+            vaibhav2000804@gmail.com
           </a>
           <br />
           📞 Phone:{" "}
